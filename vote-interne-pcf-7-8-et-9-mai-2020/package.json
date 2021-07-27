@@ -1,0 +1,14 @@
+{
+  "name": "@neocartocnrs/vote-interne-pcf-7-8-et-9-mai-2020",
+  "main": "1961cdc1bd13df07@1193.js",
+  "version": "1193.0.0",
+  "homepage": "https://observablehq.com/@neocartocnrs/vote-interne-pcf-7-8-et-9-mai-2020",
+  "author": {
+    "name": "neocarto",
+    "url": "https://observablehq.com/@neocartocnrs"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

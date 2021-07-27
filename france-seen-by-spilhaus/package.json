@@ -1,0 +1,14 @@
+{
+  "name": "@neocartocnrs/france-seen-by-spilhaus",
+  "main": "da689335d4f4b6fe@1191.js",
+  "version": "1191.0.0",
+  "homepage": "https://observablehq.com/@neocartocnrs/france-seen-by-spilhaus",
+  "author": {
+    "name": "neocarto",
+    "url": "https://observablehq.com/@neocartocnrs"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

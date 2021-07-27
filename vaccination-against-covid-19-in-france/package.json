@@ -1,0 +1,14 @@
+{
+  "name": "@neocartocnrs/vaccination-against-covid-19-in-france",
+  "main": "3b2a2ea55c2b52f7@2395.js",
+  "version": "2395.0.0",
+  "homepage": "https://observablehq.com/@neocartocnrs/vaccination-against-covid-19-in-france",
+  "author": {
+    "name": "neocarto",
+    "url": "https://observablehq.com/@neocartocnrs"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

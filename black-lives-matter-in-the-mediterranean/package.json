@@ -1,0 +1,14 @@
+{
+  "name": "@neocartocnrs/black-lives-matter-in-the-mediterranean",
+  "main": "9a23fab559f2e5dc@1060.js",
+  "version": "1060.0.0",
+  "homepage": "https://observablehq.com/@neocartocnrs/black-lives-matter-in-the-mediterranean",
+  "author": {
+    "name": "neocarto",
+    "url": "https://observablehq.com/@neocartocnrs"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

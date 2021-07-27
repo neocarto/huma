@@ -1,0 +1,14 @@
+{
+  "name": "@neocartocnrs/the-organization-of-cartographers-for-social-equality",
+  "main": "f9f6223d19ca5895@1433.js",
+  "version": "1433.0.0",
+  "homepage": "https://observablehq.com/@neocartocnrs/the-organization-of-cartographers-for-social-equality",
+  "author": {
+    "name": "neocarto",
+    "url": "https://observablehq.com/@neocartocnrs"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

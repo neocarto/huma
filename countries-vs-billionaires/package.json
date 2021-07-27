@@ -1,0 +1,14 @@
+{
+  "name": "@neocartocnrs/countries-vs-billionaires",
+  "main": "26fe8faedde0524e@1374.js",
+  "version": "1374.0.0",
+  "homepage": "https://observablehq.com/@neocartocnrs/countries-vs-billionaires",
+  "author": {
+    "name": "neocarto",
+    "url": "https://observablehq.com/@neocartocnrs"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
