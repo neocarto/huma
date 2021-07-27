@@ -5,7 +5,7 @@
 
 https://neocarto.github.io/huma/covid-in-france-monthly-evolution/
 
-<ins>vaccination against covid19 in France</ins>
+<ins>Vaccination against covid19 in France</ins>
 
 https://neocarto.github.io/huma/vaccination-against-covid-19-in-france
   
