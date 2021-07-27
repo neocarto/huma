@@ -1,0 +1,14 @@
+{
+  "name": "@neocartocnrs/covid-in-france-monthly-evolution",
+  "main": "8deaf60235e6a2d5@572.js",
+  "version": "572.0.0",
+  "homepage": "https://observablehq.com/@neocartocnrs/covid-in-france-monthly-evolution",
+  "author": {
+    "name": "neocarto",
+    "url": "https://observablehq.com/@neocartocnrs"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
