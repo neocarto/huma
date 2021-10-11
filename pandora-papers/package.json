@@ -1,0 +1,14 @@
+{
+  "name": "@neocartocnrs/pandora-papers",
+  "main": "270132a90b56bde2@738.js",
+  "version": "738.0.0",
+  "homepage": "https://observablehq.com/@neocartocnrs/pandora-papers",
+  "author": {
+    "name": "neocarto",
+    "url": "https://observablehq.com/@neocartocnrs"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
